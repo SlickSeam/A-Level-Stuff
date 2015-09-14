@@ -3,25 +3,49 @@
 ## 3.5 Fundamentals of data representation
 
 ### 3.5.1 Number systems
-+ natural numbers
++ Natural Numbers
 
-**definition**: those are numbers used for counting.
+**Definition**: These are numbers used for counting.
 
-**examples**: 0,1,2,3,4
+**Examples**: 0, 1, 2, 3, 4
 ``` 
-this is an area for code or examples etc
-
 Counting uses natural number
 A set of natural number can expressed as:
 N={0,1,2,3...}
 
 ```
 
-+ integer numbers
-+ rational numbers
-+ irrational numbers
-+ real numbers
-+ ordinal numbers
++ Integer Numbers
+
+**Definition**: Any whole number.
+
+**Examples**: -2, -1, 0, 1, 2
+
++ Rational Numbers
+
+**Definition**: Any number that can be written as a fraction
+
+**Examples**: -1, 0, 1.2, 1/3, 5.5
+
++ Irrational Numbers
+
+**Definition**: Any number that cannot be written as a fraction
+
+**Examples**: π, √2, √3
+
++ Real numbers
+
+**Definition**: Any possible real world quantities
+
+**Examples**: √2, 1.23, 3.142, -3, -2, -1, 0, 111, 245.56, 3
+
++ Ordinal numbers
+
+**Definition**: Used to tell the position of something in a list
+
+**Examples**: List = (a, b, c, d) *'a' is the **1st** object in the list, 'b' is the **2nd** object in the list, etc...*
+
+
 
 ### 3.5.2 Number bases
 + base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
