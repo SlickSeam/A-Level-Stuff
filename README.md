@@ -2,12 +2,14 @@
 
 ## 3.5 Fundamentals of data representation
 
+**[Bourne to Code Link](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html)**
+
 ### 3.5.1 Number systems
 + Natural Numbers
 
-**Definition**: These are numbers used for counting.
+++**Definition**: These are numbers used for counting.
 
-**Examples**: 0, 1, 2, 3, 4
+++**Examples**: 0, 1, 2, 3, 4
 ``` 
 Counting uses natural number
 A set of natural number can expressed as:
@@ -43,7 +45,7 @@ N={0,1,2,3...}
 
 **Definition**: Used to tell the position of something in a list
 
-**Examples**: List = (a, b, c, d) *'a' is the **1st** object in the list, 'b' is the **2nd** object in the list, etc...*
+**Examples**: List = (a, b, c, d) *'a' is the 1st object in the list, 'b' is the 2nd object in the list, etc...*
 
 
 
