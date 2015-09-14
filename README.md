@@ -7,9 +7,9 @@
 ### 3.5.1 Number systems
 **Natural Numbers**
 
-+**Definition**: These are numbers used for counting.
++Definition: These are numbers used for counting.
 
-+**Examples**: 0, 1, 2, 3, 4
++Examples: 0, 1, 2, 3, 4
 ``` 
 Counting uses natural number
 A set of natural number can expressed as:
@@ -19,33 +19,33 @@ N={0,1,2,3...}
 
 **Integer Numbers**
 
-+**Definition**: Any whole number.
++Definition: Any whole number.
 
-+**Examples**: -2, -1, 0, 1, 2
++Examples: -2, -1, 0, 1, 2
 
 **Rational Numbers**
 
-+**Definition**: Any number that can be written as a fraction
++Definition: Any number that can be written as a fraction
 
-+**Examples**: -1, 0, 1.2, 1/3, 5.5
++Examples: -1, 0, 1.2, 1/3, 5.5
 
 **Irrational Numbers**
 
-+**Definition**: Any number that cannot be written as a fraction
++Definition: Any number that cannot be written as a fraction
 
-+**Examples**: π, √2, √3
++Examples: π, √2, √3
 
 **Real numbers**
 
-+**Definition**: Any possible real world quantities
++Definition: Any possible real world quantities
 
-+**Examples**: √2, 1.23, 3.142, -3, -2, -1, 0, 111, 245.56, 3
++Examples: √2, 1.23, 3.142, -3, -2, -1, 0, 111, 245.56, 3
 
 **Ordinal numbers**
 
-+**Definition**: Used to tell the position of something in a list
++Definition: Used to tell the position of something in a list
 
-+**Examples**: List = (a, b, c, d)
++Examples: List = (a, b, c, d)
 
 *'a' is the 1st object in the list, 'b' is the 2nd object in the list, etc...*
 
